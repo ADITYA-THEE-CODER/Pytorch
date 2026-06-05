@@ -1,0 +1,1 @@
+The most common activation function in AI is called ReLU (Rectified Linear Unit).
