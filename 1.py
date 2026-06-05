@@ -11,7 +11,7 @@ Y = torch.tensor([[3.0], [5.0], [7.0], [9.0]])
 w = torch.randn(1, 1, requires_grad=True)
 b = torch.randn(1, requires_grad=True)
 
-print(f"🤖 Starting random guess -> Weight: {w.item():.2f}, Bias: {b.item():.2f}\n")
+print(f" Starting random guess -> Weight: {w.item():.2f}, Bias: {b.item():.2f}\n")
 
 learning_rate = 0.05
 
